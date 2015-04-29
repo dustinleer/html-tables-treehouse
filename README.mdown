@@ -1,0 +1,37 @@
+#HTML Tables from teamtreehouse.com#
+
+This is part of the Web Design track on [teamtreehouse.com](http://teamtreehouse.com/tracks/web-design).
+
+If you want to learn more about this project please sign up at [teamtreehouse.com](http://referrals.trhou.se/dustinleer) with this referral link. This helps me lower my costs so do me a solid if you want to sign up and use the second link please.
+
+
+The web is filled with text and images, but it's also filled with information like sports scores throughout the years, list of employee names and email addresses, or nutrition facts for your favorite foods. HTML tables enable the display information in what is commonly known as tabular data, which is information that's stored in a table-like structure of columns and rows. In general, anything that you might put into a spreadsheet could go in a table. There are many use cases for a table, so it's important to add them to your skills because it's a very common method for displaying information.
+
+* * *
+
+##Lessons##
+
+* * *
+
+
+###Step 1
+
+**Table Basics**  
+Tables are a little bit more involved than other HTML elements like paragraphs and images, because in order to construct a table, you need to use elements to represent the individual table cells, the rows that contain those cells, as well as the table itself.
+
+*Extra Credit*  
+Try creating a table on your own. You can create a table of financial data, nutrition facts, sports scores, or anything else you can imagine.
+
+* * *
+
+
+###Step 2
+
+**Structuring Tables**  
+Extra structure can be helpful for automated pieces of software like search engines or screen readers, but it's also helpful for designers because it adds some additional elements that can be targeted with CSS.
+
+
+*Extra Credit*  
+If you continue to learn about front-end development, try adding some [jQuery](http://teamtreehouse.com/library/jquery-basics) to your table. With the right plugin, you can add features like sorting and filtering to an otherwise static table.
+
+If you learn about back-end languages like [Ruby](http://teamtreehouse.com/library/ruby-basics), [PHP](http://teamtreehouse.com/tracks/php-development), or [Python](http://teamtreehouse.com/library/python-basics), try to see if you can populate a table dynamically by using data from a database.
